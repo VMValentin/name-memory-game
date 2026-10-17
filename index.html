@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Name Memory</title>
+<meta name="description" content="Flashcard game to practice remembering names and faces.">
+<meta name="theme-color" content="#4f46e5">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Names">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <h1>🧠 Name Memory</h1>
+  <button class="icon-btn" id="helpBtn" aria-label="How it works">?</button>
+</header>
+
+<main id="view"></main>
+
+<nav class="tabbar">
+  <button data-tab="browse" class="active"><span>🗂️</span>Pick</button>
+  <button data-tab="practice"><span>🃏</span>Practice</button>
+  <button data-tab="library"><span>📚</span>Library</button>
+  <button data-tab="add"><span>➕</span>Add</button>
+</nav>
+
+<div id="modal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-card" id="modalCard"></div>
+</div>
+
+<script src="people.js"></script>
+<script src="logic.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
