@@ -1,0 +1,267 @@
+# id|Label|kind|match spellings|image1;image2;image3
+mike|Mike|name|mike,michael,mic,mikey|🎤 microphone;🚲 bike
+bill|Bill|name|bill,billy,billie|🦆 duck bill;💵 dollar bill
+rose|Rose|name|rose,rosa,rosie|🌹 rose
+al|Al|name|al,alan,allen,alfred|🦉 owl
+bob|Bob|name|bob,bobby|🍎 bobbing apple;🎣 fishing bobber
+rob|Rob|name|rob,robert,robbie|🦹 robber with a loot sack
+tom|Tom|name|tom,thomas,tommy|🐱 tomcat;🥁 tom-tom drum
+jack|Jack|name|jack,jackie,jackson|🚗 car jack;🎃 jack-o'-lantern
+john|John|name|john,jon,johnny,jonathan|🚽 toilet (a "john")
+george|George|name|george,georgia|🏞️ gorge (deep canyon)
+steve|Steve|name|steve,steven,stephen,stephan|🍳 stove
+ben|Ben|name|ben,benjamin,benny|🕰️ Big Ben clock tower
+frank|Frank|name|frank,franklin,frankie|🌭 frankfurter (hot dog)
+ray|Ray|name|ray,raymond|☀️ sun ray;🐟 stingray
+pat|Pat|name|pat,patrick,patty,patricia|🍀 shamrock;🧈 pat of butter
+grace|Grace|name|grace,gracie|🙏 hands saying grace;🩰 graceful ballerina
+harry|Harry|name|harry,harriet,harold,hari|🦍 hairy gorilla
+jane|Jane|name|jane,janet,jayne|⛓️ chain
+kate|Kate|name|kate,katherine,kathy,catherine,cathy,katie,kat|🐈 cat
+mary|Mary|name|mary,marie,maria,mari|💍 wedding ring (marry)
+sue|Sue|name|sue,susan,suzy|⚖️ judge's gavel (sue)
+rich|Rich|name|rich,richard,rick,ricky,dick|💰 bags of money (rich)
+charlie|Charlie|name|charlie,charles,chuck,charlotte|🔥 charcoal grill
+nick|Nick|name|nick,nicholas,nikola,nicole,nico|🪙 nickel;🎅 Saint Nick
+ted|Ted|name|ted,teddy,theodore,theo|🧸 teddy bear
+ed|Ed|name|ed,eddie,edward,edd|🛏️ bed;🐴 Mr. Ed the talking horse
+joe|Joe|name|joe,joseph,joey,jo|☕ cup of joe (coffee)
+dan|Dan|name|dan,daniel,danny|🦁 lion's den
+sam|Sam|name|sam,samuel,samantha,sammy|🎩 Uncle Sam's top hat
+max|Max|name|max,maxwell,maximilian|📈 needle maxed out on a meter
+leo|Leo|name|leo,leon,leonardo,lionel,leona|🦁 lion
+neil|Neil|name|neil,neal,niall|🧎 person kneeling
+carl|Carl|name|carl,karl,carla|🚗 car
+bruce|Bruce|name|bruce|🤕 bruise
+pete|Pete|name|pete,peter,petra|🧚 Peter Pan flying
+paul|Paul|name|paul,paula,pablo,paulo|🎏 tall flag pole
+gene|Gene|name|gene,jean,jeanne,jeannie|👖 blue jeans;🧞 genie
+roger|Roger|name|roger|📻 walkie-talkie ("Roger that!")
+wayne|Wayne|name|wayne|🌬️ weather vane
+babe|Babe|name|babe,baby|👶 baby
+ada|Ada|name|ada,add|➕ adding machine
+isaac|Isaac|name|isaac,ike|🧊 ice cube
+serena|Serena|name|serena|🎻 violin serenade
+chris|Chris|name|chris,christopher,christian,cristiano,christina,kristen,kris|🔮 crystal ball
+simon|Simon|name|simon,simone|🙋 "Simon says" game
+abe|Abe|name|abe,abraham|🪄 magic wand (abracadabra)
+martin|Martin|name|martin,marty|🛒 shopping cart (K-mart)
+vic|Vic|name|vic,victor,victoria,vicky|✌️ V-for-victory hand;🏆 victory podium
+fred|Fred|name|fred,frederick,freddie,freda|🧵 spool of thread
+liz|Liz|name|liz,elizabeth,beth,eliza,lizzie,betsy|🦎 lizard
+julie|Julie|name|julie,julius,julia,jules|🧃 orange juice;💎 jewels
+ellie|Ellie|name|ellie,eleanor,ella,ellen,elena|🐘 elephant
+frida|Frida|name|frida,freida,friday|📅 Friday calendar page
+vince|Vince|name|vince,vincent,vin|🍷 glass of wine (vin)
+walt|Walt|name|walt,walter,waltz|💃 couple dancing a waltz
+warren|Warren|name|warren|🐇 rabbit warren
+henry|Henry|name|henry,hank,henrietta|🐔 hen
+james|James|name|james,jim,jimmy,jamie|🏋️ gym;🎯 aiming at a target (aims)
+mark|Mark|name|mark,marcus,marc,marco|🖍️ marker;✔️ check mark
+dave|Dave|name|dave,david,davy|🪃 David's slingshot;🕳️ cave
+matt|Matt|name|matt,matthew,matty|🧘 yoga mat;🚪 doormat
+andy|Andy|name|andy,andrew,andrea,drew|🍬 candy
+tony|Tony|name|tony,anthony,antonio,toni|🐜 ant
+greg|Greg|name|greg,gregory|🛢️ beer keg
+jeff|Jeff|name|jeff,jeffrey,geoff|🧑‍🍳 chef
+ken|Ken|name|ken,kenneth,kenny|🧍 Ken doll
+kevin|Kevin|name|kevin,kev|🕳️ cave-in
+brian|Brian|name|brian,bryan|🧠 brain
+ryan|Ryan|name|ryan|🌧️ rain
+scott|Scott|name|scott,scotty|🛏️ camping cot;🏴 Scottish kilt
+eric|Eric|name|eric,erica,erik|👂 earache;⛵ Viking ship (Eric the Red)
+adam|Adam|name|adam|🍎 Adam's apple
+jerry|Jerry|name|jerry,gerald,gerry|🐭 Jerry the cartoon mouse
+terry|Terry|name|terry,terrence,teresa|🧖 terry-cloth towel
+barry|Barry|name|barry,barrie|🫐 berries
+gail|Gail|name|gail,gale|🌪️ gale-force wind
+dawn|Dawn|name|dawn|🌅 sunrise
+holly|Holly|name|holly|🎄 holly sprig
+ivy|Ivy|name|ivy|🌿 ivy-covered wall
+lily|Lily|name|lily,lillian,lilly|🪷 lily pad with a frog
+daisy|Daisy|name|daisy|🌼 daisy
+iris|Iris|name|iris|👁️ eyeball (iris)
+ruby|Ruby|name|ruby|💎 red ruby;👠 ruby slippers
+pearl|Pearl|name|pearl|🦪 oyster with a pearl
+amber|Amber|name|amber|🦟 mosquito trapped in amber
+sandy|Sandy|name|sandy,sandra,sander|🏖️ sandy beach
+brooke|Brooke|name|brooke,brook|🏞️ babbling brook
+robin|Robin|name|robin,robyn|🐦 robin redbreast
+jay|Jay|name|jay,jason,jayden|🐦 blue jay
+penny|Penny|name|penny,penelope|🪙 shiny penny
+joy|Joy|name|joy,joyce|🎉 confetti (joy)
+carol|Carol|name|carol,caroline,carolyn|🎶 Christmas carolers
+pam|Pam|name|pam,pamela|🍳 can of cooking spray
+peggy|Peggy|name|peggy,peg|🦜 pirate with a peg leg
+jen|Jen|name|jen,jenny,jennifer|💎 gem
+barb|Barb|name|barb,barbara,barbie|🎣 barbed fishing hook
+sally|Sally|name|sally,sal|⛵ sail
+dot|Dot|name|dot,dorothy,dottie|🔴 big red polka dot;👠 Dorothy's ruby slippers
+lisa|Lisa|name|lisa,lise,liza|🗼 Leaning Tower of Pisa
+laura|Laura|name|laura,lauren,laurel|🌿 laurel wreath
+olivia|Olivia|name|olivia,olive,oliver,ollie|🫒 olive
+sophie|Sophie|name|sophie,sophia,sofia|🛋️ sofa
+hannah|Hannah|name|hannah,anna,ann,anne,annie|🍌 banana
+wendy|Wendy|name|wendy|🌬️ windy day, umbrella flipped
+stella|Stella|name|stella|⭐ star
+gloria|Gloria|name|gloria|🙌 choir singing "Gloria!"
+angie|Angie|name|angie,angela,angel|😇 angel with a halo
+eve|Eve|name|eve,eva,evie|🎆 New Year's Eve fireworks
+bonnie|Bonnie|name|bonnie|🦴 dog bone
+jill|Jill|name|jill,gillian|🪣 Jack-and-Jill pail
+dolly|Dolly|name|dolly|🪆 doll;🛻 hand truck (dolly)
+polly|Polly|name|polly|🦜 parrot ("Polly want a cracker?")
+paige|Paige|name|paige,page|📄 page of a book
+sean|Sean|name|sean,shawn,shaun|🐑 shorn sheep
+gordon|Gordon|name|gordon|🌻 garden
+howard|Howard|name|howard,howie|🤠 "Howdy!" cowboy
+gil|Gil|name|gil,gilbert|🐟 fish gills
+hugh|Hugh|name|hugh,hugo|🌈 rainbow of hues
+lance|Lance|name|lance|⚔️ knight's lance
+miles|Miles|name|miles,myles|🛣️ highway mile marker
+chase|Chase|name|chase|🏃 someone being chased
+cliff|Cliff|name|cliff,clifford|🧗 cliff edge
+dale|Dale|name|dale|🐿️ chipmunk (Chip 'n' Dale)
+glen|Glen|name|glen,glenn,glenda|🏞️ misty glen (valley)
+rocky|Rocky|name|rocky,rock|🥊 boxer on stairs;🪨 rock
+duke|Duke|name|duke|🎖️ duke with a sash
+earl|Earl|name|earl,earle|🫖 Earl Grey teapot
+art|Art|name|art,arthur,artie|🎨 painter's palette
+herb|Herb|name|herb,herbert|🌿 bundle of herbs
+chip|Chip|name|chip|🍪 chocolate chip cookie
+buck|Buck|name|buck|🦌 buck with antlers
+phil|Phil|name|phil,philip,phillip,phyllis|⛽ gas pump (fill up)
+gary|Gary|name|gary,garry|🏠 garage
+larry|Larry|name|larry,lawrence,laurence|🚚 lorry (big truck)
+kim|Kim|name|kim,kimberly|🧪 chemistry set (Kim = chem)
+tina|Tina|name|tina,christina|🥫 tin can
+meg|Meg|name|meg,megan|📣 megaphone
+emma|Emma|name|emma,emily,em|🧲 magnet M
+nora|Nora|name|nora,norah|😴 snoring (Nora = snorer)
+claire|Claire|name|claire,clara,clare|🪟 crystal-clear window
+lucy|Lucy|name|lucy,lucille,lucas,luke|🗝️ loose key (Lucy = loose)
+louis|Louis|name|louis,lewis,lou,louise|🏏 Louisville baseball bat
+oprah|Oprah|name|oprah,opera|🎭 opera singer
+son|-son|sound|son,sun|☀️ blazing sun
+stein|-stein|sound|stein|🍺 beer stein
+berg|-berg|sound|berg,burg,burgh|🧊 iceberg
+mc|Mc / Mac|sound|mc,mac|🍔 Big Mac
+man|-man|sound|man,mann|🦸 superhero man
+ton|-ton|sound|ton,tun|🏋️ one-ton weight
+ford|-ford|sound|ford|🚙 Ford pickup truck
+ham|-ham|sound|ham|🍖 ham
+king|King|sound|king|👑 king's crown
+ley|-ley / -ly|sound|ley,lee,leigh,ly|🌺 Hawaiian lei
+ber|-ber / -bear|sound|ber,bear,bare|🐻 bear
+wood|-wood(s)|sound|wood,woods|🌲 forest of trees
+field|-field|sound|field|🌾 wheat field
+well|-well|sound|well,wel|🪣 wishing well
+ville|-ville|sound|ville,vill|🏘️ little village
+stone|-stone / -ston|sound|stone,ston|🪨 big stone
+win|Win|sound|win,wyn,wynn|🏆 trophy
+smith|Smith|sound|smith|🔨 blacksmith's hammer
+miller|Miller|sound|miller,mill|🌾 windmill
+taylor|Taylor|sound|taylor,tailor|✂️ tailor's scissors
+fish|Fish|sound|fish,fisher|🐟 fish
+hill|-hill|sound|hill|⛰️ hill
+bell|Bell|sound|bell,bel|🔔 bell
+gold|Gold|sound|gold|🥇 gold bar
+green|Green|sound|green,greene|🟢 green paint splash
+white|White|sound|white,wight|🏳️ white flag
+brown|Brown|sound|brown,braun|🟫 chocolate brown mud
+young|Young|sound|young|🍼 baby bottle
+roe|-roe / -row|sound|roe,row,rowe|🚣 rowboat
+mon|Mon-|sound|mon,mun|💰 money
+ney|-ney / -knee|sound|ney,nee,ne|🦵 knee
+dis|Dis- / Diz|sound|dis,diz|💫 dizzy spinning stars
+gates|Gates|sound|gates,gate|🚪 swinging gate
+jobs|Jobs|sound|jobs,job|💼 briefcase (job)
+ein|Ein-|sound|ein,ine|☝️ giant "#1" foam finger
+bert|-bert|sound|bert,burt|🐦 Big Bird (Bert = bird)
+dar|Dar-|sound|dar,dare|🎯 dart
+lace|-lace|sound|lace,lass|🎀 lace ribbon
+lin|-lin / -lyn|sound|lin,lyn,lynn,line|🧺 linen sheets on a line
+coln|-coln / -con|sound|coln,con,cone|🍦 ice cream cone
+wash|Wash-|sound|wash|🧼 bubbly washtub
+ing|-ing|sound|ing,ring|💍 ring
+church|Church|sound|church|⛪ church
+dough|-dough / -doe|sound|dough,doe,do|🍩 donut (dough)
+glass|-glass / -glas|sound|glass,glas,glass|🥛 glass
+roose|Roose-|sound|roos,roose,ruse|🐓 rooster
+velt|-velt / -felt|sound|velt,felt|🎩 felt hat
+pas|Pas-|sound|pas,pass|🎫 hall pass
+tur|Tur-|sound|tur,ter,tour|🐢 turtle
+hawk|Hawk-|sound|hawk,hawking,hock|🦅 hawk
+gall|Gal-|sound|gal,gall|👩‍🦰 cowgirl ("Howdy, gal!")
+cur|Cur-|sound|cur,cure,cu|💊 cure pill
+tess|Tes- / Tess|sound|tes,tess,tesla|⚡ Tesla coil sparks
+feyn|Fine-|sound|feyn,fine,fein|🍷 fine wine glass
+good|Good-|sound|good,goode|👍 thumbs up
+all|-all|sound|all|🌍 the whole world (all)
+sag|Sag-|sound|sag,sagan|🎒 sagging backpack
+ty|Ty- / Tie|sound|ty,tie,tye|👔 necktie
+pastor|Pasteur|sound|pasteur,pasture|🐄 cow in a pasture
+edi|-dison / -is-on|sound|is,ison|💡 light switch "is on"
+freud|Freud|sound|freud,fried,frood|🍳 fried egg
+jordan|Jordan|sound|jordan|🏞️ Jordan River
+liams|-liams / -williams|sound|williams,liams|📜 last will & testament scroll
+bolt|Bolt|sound|bolt|⚡ lightning bolt;🔩 nut and bolt
+messy|Mess-|sound|messi,messy,mess|🧹 a big mess to sweep
+ron|Ron-|sound|ron,rona,ronald|🤡 Ronald McDonald clown
+ali|Ali|sound|ali,alley|🛣️ narrow alley
+bile|Biles|sound|biles,bile,bills|🧾 pile of bills
+brady|Brady|sound|brady,braid|🪢 braid
+bron|-bron / Bron-|sound|bron,bronze|🥉 bronze medal
+fed|Fed-|sound|fed,feather,fedora|🪶 feather
+ruth|Ruth|sound|ruth,truth|🤥 lie detector (truth)
+pail|Pelé|sound|pele,pail|🪣 pail of water
+will|Will|name|will,william,willy,liam|📜 last will & testament scroll;🌬️ windmill (Will-mill)
+van|Van|sound|van|🚐 van
+ark|Arc / Ark|sound|arc,ark|⛵ Noah's ark
+joan|Joan|name|joan,joanne,joanna|📞 phone (Joan = phone)
+dee|-dy / -dee|sound|dy,dee,di,dey|🎲 dice (die)
+gogh|Go / Gogh|sound|gogh,go,goe|🚦 green "GO" light
+pic|Pic- / Pick|sound|pic,pick|⛏️ pickaxe
+case|-cas / Case|sound|cas,case,kas|💼 suitcase
+shake|Shake-|sound|shak,shake|🥤 milkshake
+spear|-speare|sound|speare,spear,spe|🔱 spear
+wig|-wig / Wig|sound|wig|💇 powdered wig
+chop|Chap- / Chop|sound|chap,chop|🥢 chopsticks
+hep|Hep- / Hip|sound|hep,hip|🦛 hippo
+burn|-burn|sound|burn,bern,berne|🔥 flames (burn)
+press|Pres- / Press|sound|pres,press|🏋️ bench press
+door|Dor / Door|sound|dor,door,dore|🚪 door
+dali|Dali / Dolly|sound|dali,dally|🕰️ melting clock
+buff|Buff-|sound|buff,buf|🏋️ buff bodybuilder
+et|-et / -ette|sound|et,ette|👽 E.T. the alien
+pan|Fran- / Pan|sound|pan|🍳 frying pan
+mandela|Man-de-la|sound|mandela,mandolin|🪕 mandolin
+tub|Tub-|sound|tub|🛁 bathtub
+nap|Nap-|sound|nap|😴 napping on a pillow
+pole|-pole|sound|pole,poll|🗳️ ballot box (poll)
+cleo|Cleo / Clio|sound|cleo,clio|📎 paper clip
+patra|-patra / Pat|sound|patra|🍀 shamrock
+gand|Gand- / Candy|sound|gand,cand|🍭 lollipop (candy)
+kahl|Kahlo / Collar|sound|kahlo,collar,kahl|🐶 dog collar
+dal|Dal- / Doll|sound|dal,doll|🪆 doll
+new|New-|sound|new,nu|🆕 shiny "NEW" sign
+tiger|Tiger|name|tiger,ty|🐯 tiger
+queen|Queen|sound|queen|👸 queen
+hop|Hop / Hopper|sound|hop,hopper|🐸 hopping frog
+love|Love-|sound|love,lov|❤️ big red heart
+grass|-grass|sound|grass,grasse|🌱 lawn of grass
+caesar|Caesar / Seize|sound|caesar,seize,cesar|🥗 Caesar salad
+cigar|Sig- / Cig|sound|sig,cig|🚬 cigar
+wolf|Wolf|sound|wolf,wolfe|🐺 wolf
+elf|El- / Elf|sound|elf,elv|🧝 elf
+beet|Bee- / Beet|sound|beet,bee|🐝 bee
+oven|-hoven / Oven|sound|oven,hoven|🍕 pizza oven
+fry|-frey / Fry|sound|frey,fry,fri|🍟 French fries
+moz|Moz- / Mos-|sound|moz,mos|🦟 mosquito
+audio|Aud- / Audio|sound|aud,audio,audrey,odd|🎧 headphones (audio)
+lute|Lu- / Lute|sound|lute,luth,luther|🪕 lute
+moo|Mu- / Moo|sound|mu,moo|🐄 mooing cow
+mad|Mad|sound|mad|🎩 Mad Hatter's hat
+ill|-ill / Ill|sound|ill|🤒 sick thermometer
+buffet|Buffet|sound|buffet,buffett|🍽️ all-you-can-eat buffet
+kobe|Kobe|sound|kobe|🥩 Kobe beef steak

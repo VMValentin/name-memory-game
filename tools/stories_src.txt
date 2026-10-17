@@ -1,0 +1,73 @@
+# id|feature|parts ("auto" or tokens Text:pegId / Text:=custom image)|story
+albert-einstein|Wild white electric hair|auto|An owl and Big Bird are nesting in that wild white electric hair, fighting over a giant "#1" foam finger, while a frothy beer stein balances on top and sloshes foam into the frizz.
+marie-curie|Glowing green test tubes (radium)|auto|A huge wedding ring glows radioactive green on her finger; every time she marries a test tube to it, out pops a cure pill that she merrily hands out.
+isaac-newton|Long curly wig|Isaac:isaac New:new ton:ton|Ice cubes rain down onto that long curly wig, followed by a shiny "NEW" sign and then a one-ton weight that squashes the wig flat. An apple bounces off the top.
+charles-darwin|Huge bushy white beard|auto|A charcoal grill is smoking inside that huge bushy white beard; he throws a dart into the smoke and pulls out a gleaming trophy with a finch perched on it.
+nikola-tesla|Sharp mustache and slicked hair|auto|He pays with a giant nickel, and the moment it touches his sharp mustache, Tesla coil sparks crackle from both tips and light up his slicked hair.
+stephen-hawking|Big glasses|auto|A red-hot stove is perched on his big glasses, and a hawk swoops down, lands on the stove, burns its feet and screeches into a black hole.
+galileo-galilei|Long beard and a giant telescope|Gali:gall leo:leo Galilei:=🔭 giant telescope|A cowgirl ("Howdy, gal!") rides a lion across the night sky, peering at Jupiter through a giant telescope propped on his long beard.
+ada-lovelace|Curled hair and lace dress|Ada:ada Love:love lace:lace|An adding machine spits out a big red heart on a tape of 1s and 0s, and she ties the heart into her curled hair with a lace ribbon.
+richard-feynman|Huge grin and bongo drums|auto|Bags of money spill out of his huge grin; he pours a glass of fine wine onto his bongo drums, and a superhero man bursts out of the drum.
+jane-goodall|Silver ponytail|auto|Her silver ponytail is a heavy chain; a chimp swings on it, gives a big thumbs up and shouts that the whole world (all) is good.
+carl-sagan|Turtleneck and wide smile|auto|A tiny car drives across his wide smile, its roof piled so high with stars that it turns into a sagging backpack bursting with billions and billions of them.
+grace-hopper|Navy uniform and admiral's cap|Grace:grace Hopper:hop|She bows her admiral's cap, hands together saying grace, when a hopping frog leaps out of a computer, the first real "bug", and hops onto her cap.
+alan-turing|Thin face, neat side part|auto|An owl walks along his neat side part, riding a turtle that wears a giant ring like a hula hoop and spins code out of it.
+neil-degrasse-tyson|Mustache and starry vest|Neil:neil deGrasse:grass Tyson:tiger|Kneeling on a lawn of grass under the stars, he combs his mustache while a tiger in a starry vest prowls around him and roars at the Moon.
+louis-pasteur|Big full beard|auto|He swings a Louisville baseball bat at a cow in a pasture; the cow's milk sprays into his big full beard and comes out germ-free.
+katherine-johnson|Glasses and warm smile|auto|A cat wearing her glasses rides a rocket shaped like a toilet (a "john") straight into the blazing sun, and she smiles while doing the math in chalk.
+thomas-edison|Furrowed brow and a lightbulb|auto|A tomcat jumps onto a bed under his furrowed brow and flips the light switch: the "is on" lightbulb blazes above his head.
+sigmund-freud|White beard and cigar|Sig:cigar mund:=🌕 moon Freud:freud|He puffs a giant cigar until the smoke forms a full moon, then cracks a fried egg onto it, sizzling right above his white beard while you lie on his couch.
+michael-jordan|Shaved head and a giant leap|auto|He leaps from one bank of the Jordan River to the other, singing into a microphone, and dunks it like a basketball, shining off his shaved head.
+serena-williams|Powerful arms|auto|With those powerful arms she plays a violin serenade so loud it blasts a last will & testament scroll across the tennis court.
+usain-bolt|Lightning-bolt pose|Usain:=🤪 "You sane?" Bolt:bolt|He strikes the lightning-bolt pose, a real lightning bolt shoots from his finger, and the crowd yells "You sane?!"
+lionel-messi|Beard and small frame|auto|A lion with a beard dribbles a soccer ball, leaving behind a big mess to sweep: tumbled defenders everywhere.
+cristiano-ronaldo|Chiseled jaw and big celebration|auto|He leaps shouting "SIUU!" and lands on his chiseled jaw on a crystal ball, which cracks open to release Ronald McDonald the clown.
+muhammad-ali|Raised boxing gloves|Mu:moo ham:ham mad:mad Ali:ali|A mooing cow wearing boxing gloves holds a ham and a Mad Hatter's hat, and dances like a butterfly down a narrow alley.
+simone-biles|Tiny and mid-flip|auto|She plays "Simon says flip!" and flips so high she lands on a towering pile of bills that scatter like confetti.
+tom-brady|Square jaw with a chin dimple|auto|A tomcat throws a football from that square jaw, and its tail is woven into a long braid that wraps around seven Super Bowl rings.
+lebron-james|Headband and beard|Le:=🇫🇷 French beret ("Le") Bron:bron James:james|Wearing a French beret over his headband, he dunks a bronze medal so hard it smashes through the roof of the gym.
+roger-federer|Headband and graceful swing|Roger:roger Federer:fed|"Roger that!" he says into a walkie-talkie tucked in his headband, then swings, and a giant feather floats off the racket.
+babe-ruth|Round face|auto|A giant baby with his round face, wearing a pinstriped diaper, hits a home run straight through a lie detector that beeps "TRUTH!"
+pele|Bright smile|auto|He juggles a soccer ball on a pail of water balanced on his head, and the water splashes his bright smile.
+wayne-gretzky|Gap-toothed grin and a hockey stick|Wayne:wayne Gretz:=🥣 bowl of grits ky:=🔑 key|A weather vane spins on the ice; he slaps a bowl of grits through it with his hockey stick, and a key flies out of his gap-toothed grin.
+michael-phelps|Super-long arms|Michael:mike Phelps:=🫳 hands "feeling" the water|He swims holding a microphone, and his super-long arms feel through the water, scooping up gold medals.
+tiger-woods|Red shirt and fist pump|auto|A tiger in a red shirt does a fist pump in a forest of trees, golfing balls off the stumps.
+jackie-robinson|Number 42 jersey|auto|He uses a car jack to lift second base while a robin redbreast in a number 42 jersey steals home into the blazing sun.
+kobe-bryant|Bright smile and fadeaway jumper|auto|He shoots a sizzling Kobe beef steak in a fadeaway jumper; it lands on a giant brain and he flashes his bright smile.
+billie-jean-king|Big glasses|auto|A duck bill pokes out from under her big glasses, she wears blue jeans on the court, and a king's crown sits on top.
+abraham-lincoln|Tall stovepipe hat and chin beard|auto|He waves a magic wand (abracadabra) and linen sheets on a line pour out of his tall stovepipe hat, wrapped around an ice cream cone dripping on his chin beard.
+george-washington|White powdered hair|auto|He tumbles into a deep gorge and lands in a bubbly washtub; he scrubs a giant ring with his white powdered hair until a one-ton weight drops in.
+cleopatra|Golden headdress and a snake|auto|A giant paper clip pins her golden headdress, and a snake coils around it, chewing a shamrock.
+winston-churchill|Bulldog jowls and a cigar|Win:win ston:stone Church:church ill:ill|A bulldog with his jowls lifts a trophy, then a big stone drops on it, a church bell rings, and the bulldog turns ill with a thermometer in its cigar mouth.
+mahatma-gandhi|Round glasses and bald head|Mahatma:=🧘 "my mat" (meditation mat) Gandhi:gand|Sitting on a meditation mat ("my mat"), he wears round glasses made of lollipops (candy) that slide down his bald head.
+martin-luther-king-jr|Mustache and a powerful voice|Martin:martin Luther:lute King:king|He pushes a shopping cart full of lutes up to a stage; his powerful voice shakes his mustache as a king's crown floats above him: "I have a dream."
+napoleon|Bicorne hat and hand in his coat|Napo:nap leon:leo|He's napping on a pillow under his sideways bicorne hat, and a lion crawls out of his coat where his hand usually goes.
+queen-victoria|Stern, unsmiling face|auto|A queen with a stern, unsmiling face holds up a giant V-for-victory hand and still refuses to smile.
+nelson-mandela|Gray hair and bright patterned shirt|Nel:neil son:son Mandela:mandela|He kneels and plays a mandolin under the blazing sun, his bright patterned shirt shining and his gray hair glowing.
+joan-of-arc|Short hair and shining armor|auto|A phone rings inside her shining armor as she rides Noah's ark into battle, her short hair flying.
+frederick-douglass|Lion-like mane of hair|Frederick:fred Doug:dough lass:glass|A spool of thread is tangled in his great lion-like mane, with a donut (dough) and a glass caught in it.
+harriet-tubman|Head scarf and determined look|auto|A hairy gorilla in a head scarf rows a bathtub through an underground tunnel, followed by a superhero man.
+benjamin-franklin|Bald top, long hair, little glasses|auto|Big Ben's clock tower is his kite; lightning strikes it and frankfurters (hot dogs) rain down onto his bald top and little glasses.
+theodore-roosevelt|Big mustache and round glasses|auto|A teddy bear with a big mustache and round glasses rides a rooster uphill, wearing a felt hat.
+elizabeth-i|Pale face, red hair, giant ruffled collar|Elizabeth:liz I:=1️⃣ number one|A lizard sits on her giant ruffled collar like it's a dinner plate stamped with a big number one.
+julius-caesar|Laurel wreath|auto|He drinks orange juice from a goblet while tossing a Caesar salad that lands on his laurel wreath.
+eleanor-roosevelt|Warm smile and pearls|auto|An elephant wearing her pearls rides a rooster in a felt hat, both smiling warmly.
+john-f-kennedy|Thick swoopy hair and big grin|auto|A toilet (a "john") launches from his thick swoopy hair; a Ken doll rides it, then lands on a knee and rolls a pair of dice: "We choose to go to the Moon!"
+leonardo-da-vinci|Long white beard|Leonardo:leo Vinci:vince|A lion paints the Mona Lisa with his long white beard, then pours a glass of wine (vin) onto it.
+frida-kahlo|Bold unibrow and flower crown|auto|A Friday calendar page is stuck to her bold unibrow, and a dog collar full of flowers forms her flower crown.
+vincent-van-gogh|Red beard and bandaged ear|auto|A glass of wine spills into his red beard as a van drives under a green "GO" light, sunflowers flying out under a swirling starry night.
+pablo-picasso|Bald head and striped shirt|Pablo:paul Pic:pic asso:case|A tall flag pole sticks out of his bald head; he swings a pickaxe and chips his face into cubes that fall into a suitcase.
+william-shakespeare|High forehead and earring|William:will Shake:shake speare:spear|A last will & testament scroll is pinned to his high forehead; he drinks a milkshake and shakes a spear: "To be or not to be!"
+wolfgang-amadeus-mozart|Powdered wig|Wolf:wolf gang:=👥 gang Moz:moz art:art|A gang of wolves plays the piano under his powdered wig while a mosquito paints music notes on a painter's palette.
+ludwig-van-beethoven|Wild, stormy hair and scowl|Lud:=🔊 loud wig:wig van:van Beet:beet hoven:oven|His wild, stormy hair is a LOUD powdered wig on top of a van; a bee flies out of a pizza oven humming "da-da-da-DUM!"
+marilyn-monroe|Platinum curls and beauty mark|auto|A giant wedding ring is wrapped in linen sheets under her platinum curls; money spills into a rowboat as she rows across a sea of diamonds.
+charlie-chaplin|Toothbrush mustache, bowler hat, cane|auto|He grills sausages on a charcoal grill using chopsticks, twirling his cane, and hangs linen on his toothbrush mustache.
+audrey-hepburn|Big doe eyes and elegant updo|auto|She wears headphones (audio) over her elegant updo while a hippo dances beside her and its hip bursts into flames.
+elvis-presley|Big pompadour and curled lip|Elv:elf is:edi Pres:press ley:ley|An elf flips the "is on" switch, does a bench press with his big pompadour as the barbell, and throws a Hawaiian lei with his curled lip.
+salvador-dali|Upturned waxed mustache|Sal:sally va:=🫙 vase dor:door Dalí:dali|He sails a vase through a door, and the tips of his upturned waxed mustache are melting clocks.
+steve-jobs|Black turtleneck and round glasses|auto|He fries apples on a stove wearing his black turtleneck and round glasses, then hands each one out in a briefcase (job).
+bill-gates|Glasses and boyish grin|auto|A duck bill pecks open a swinging gate made of computer windows, and he grins boyishly through his glasses.
+oprah-winfrey|Big voluminous hair and bright smile|auto|She sings like an opera singer, holds up a trophy, and French fries burst out of her big voluminous hair: "You get a fry! You get a fry!"
+walt-disney|Thin mustache|auto|He dances a waltz, spinning so fast that dizzy stars circle his thin mustache, and he falls onto one knee wearing Mickey ears.
+henry-ford|Serious face and a round collar|auto|A serious-faced hen in a round collar drives a Ford pickup truck off the assembly line.
+warren-buffett|Big glasses and a Cherry Coke|auto|Rabbits from a rabbit warren in big glasses sip Cherry Coke at an all-you-can-eat buffet.

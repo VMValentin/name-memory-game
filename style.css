@@ -81,3 +81,42 @@ textarea{min-height:110px;resize:vertical}
 .toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(140px + var(--safe-b));background:#111827;color:#fff;padding:10px 16px;border-radius:12px;z-index:30;font-size:15px}
 .stat{display:inline-block;background:#fff;border-radius:12px;padding:8px 12px;margin:0 6px 6px 0;font-size:14px}
 .stat b{font-size:18px}
+/* Name pegs */
+.parts{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:4px;margin:8px 0}
+.part{background:var(--brand2);border-radius:12px;padding:6px 8px;text-align:center;min-width:64px;max-width:120px}
+.part .pe{font-size:28px;line-height:1.1}
+.part .pt{font-weight:700;font-size:14px}
+.part .pn{font-size:12px;color:var(--muted);line-height:1.2}
+.plus{color:var(--muted);font-weight:700}
+.feature{margin:8px 0;font-size:15px}
+.oldtip{margin-top:8px;font-size:14px;color:var(--muted)}
+.oldtip summary{cursor:pointer;min-height:32px}
+.face.front.pegcard{justify-content:center;background:linear-gradient(160deg,#eef2ff,#fff)}
+.pegfront{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px;text-align:center}
+.pegkind{text-transform:uppercase;letter-spacing:.08em;font-size:13px;color:var(--brand);font-weight:700}
+.peglabel{font-size:54px;font-weight:800;margin:10px 0;word-break:break-word}
+.pegbig{font-size:110px;text-align:center;line-height:1.15;margin:8px 0}
+.peggrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}
+.pegtile{position:relative;background:#fff;border-radius:14px;box-shadow:0 1px 3px rgba(0,0,0,.08);border:3px solid transparent;display:flex;flex-direction:column;overflow:hidden}
+.pegtile.sel{border-color:var(--brand)}
+.pegtile .tapzone{padding:10px 8px 8px;text-align:center;flex:1}
+.pegtile .pe{font-size:40px;line-height:1.1}
+.pegtile .pl{font-weight:800;font-size:17px;margin-top:4px}
+.pegtile .pn{font-size:13px;color:var(--muted);line-height:1.25}
+.pegtile .alts{font-size:18px;margin-top:4px;opacity:.75}
+.pegtile .pst{font-size:12px;color:var(--muted);margin-top:4px}
+.pegtile .badge{position:absolute;top:8px;left:8px;background:#fef9c3;color:#854d0e;border-radius:8px;font-size:11px;padding:1px 6px;font-weight:700}
+.pegtile .check{position:absolute;top:8px;right:8px;width:28px;height:28px;border-radius:50%;background:rgba(255,255,255,.9);border:2px solid #9ca3af;display:flex;align-items:center;justify-content:center;font-weight:700;color:#fff;pointer-events:none;font-size:14px}
+.pegtile.sel .check{background:var(--brand);border-color:var(--brand)}
+.pegtile .more{border:0;background:var(--brand2);color:var(--brand);font-size:14px;font-weight:600;padding:8px;min-height:40px}
+.method{background:#fff;border-radius:14px;padding:12px 14px;margin:8px 0;border-left:4px solid var(--brand)}
+.method p{margin:6px 0}
+.method-wrap{background:#fff;border-radius:14px;padding:10px 12px}
+.method-wrap summary{cursor:pointer;min-height:32px}
+.method-wrap .method{border-left:0;padding:4px 0;margin:0}
+.partrow{display:grid;grid-template-columns:auto 1fr;gap:6px 10px;align-items:center;margin:8px 0;padding:8px;background:#f9fafb;border-radius:12px}
+.partrow select,.partrow input{grid-column:1/-1;font-size:16px;padding:10px}
+.imgrow{display:flex;gap:10px;align-items:center;margin:6px 0}
+.imgrow input[type=radio]{width:26px;height:26px;flex:none}
+details summary{min-height:32px}
+.tabbar button{font-size:12px}
